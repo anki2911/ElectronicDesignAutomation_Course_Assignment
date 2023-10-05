@@ -1,1 +1,2 @@
-# ElectronicDesignAutomation_Course_Assignment-
+# ElectronicDesignAutomation_Course_Assignment
+Verilog Codes for EDA Course
